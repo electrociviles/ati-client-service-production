@@ -1,1 +1,0 @@
-{"version":3,"sources":["mapStyle.css"],"names":[],"mappings":"AAAA,KACI,sBAAuB,CACvB,iBAAkB,CAClB,YACJ,CACA,SACI,WAAY,CACZ,UACJ","file":"19.3e8028ee.chunk.css","sourcesContent":[".App {\n    font-family: sans-serif;\n    text-align: center;\n    height: 100vh;\n} \n.App-map {\n    height: 100%;\n    width: 100%;\n}\n  "]}
